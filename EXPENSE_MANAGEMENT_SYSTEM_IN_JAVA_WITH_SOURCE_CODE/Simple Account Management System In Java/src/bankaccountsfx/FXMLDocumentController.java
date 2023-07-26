@@ -526,7 +526,7 @@ public class FXMLDocumentController implements Initializable {
                     newTransaction
             );
             saveTransactions( listTransactions );
-            showMessage( "Succesful!", "New account was registered successfully." );
+            showMessage( "Successful!", "New account was registered successfully." );
 
             createTable();
 
